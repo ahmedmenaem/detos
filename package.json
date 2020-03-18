@@ -1,0 +1,14 @@
+{
+  "name": "root",
+  "private": true,
+  "devDependencies": {
+    "lerna": "^3.20.1"
+  },
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "ahmedmenaem <ahmed.menaem@almtar.com>",
+  "license": "MIT",
+  "workspaces": [
+    "packages/*"
+  ]
+}
